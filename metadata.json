@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Estoque",
+  "description": "Sistema completo e elegante de gestão de estoque empresarial com controle de materiais, setores, movimentações, requisições imprimíveis e relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
